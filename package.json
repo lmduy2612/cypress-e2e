@@ -1,0 +1,10 @@
+{
+  "license": "duylm",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^10.3.0",
+    "eslint-plugin-cypress": "^2.12.1"
+  }
+}
